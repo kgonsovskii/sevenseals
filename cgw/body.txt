@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Pro-V910</title>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<table border="1" cellspacing="0" cellpadding="4">
+<tr><th>Time (dd.MM mm:ss)</th><td>10.05 15:05</td></tr>
+<tr><th>Protection</th><td>Yes</td></tr>
+<tr><th>Voltage (V)</th><td>14.0</td></tr>
+<tr><th>Temperature (°C)</th><td>24</td></tr>
+</table><br />
+<table border="1" cellspacing="0" cellpadding="4"><caption>SENSOR</caption>
+<tr><th>#</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>
+<tr><th>Value (%)</th><td bgcolor="#ff0000">100</td><td bgcolor="#008000">9</td><td bgcolor="#008000">13</td><td bgcolor="#008000">9</td><td bgcolor="#008000">13</td></tr>
+</table><br />
+<table border="1" cellspacing="0" cellpadding="4"><caption>RELAY</caption>
+<tr><th>#</th><th>1</th><th>2</th><th>3</th></tr>
+<tr><th>Time (min)</th><td bgcolor="#00ff00">2/2</td><td bgcolor="#ffffff">0/3</td><td bgcolor="#ffffff">0/4</td></tr>
+</table><br />
+<table border="1" cellspacing="0" cellpadding="4"><caption>CAMERA</caption>
+<tr><td>#2 @ 10.05 15:05</td><td>#1 @ 10.05 15:05</td><td>#2 @ 10.05 15:05</td><td>#1 @ 10.05 15:05</td><!--FRAME_PROP--></tr>
+<tr><td><img alt="frame" src="cid:05101505_2a.jpg" /></td><td><img alt="frame" src="cid:05101505_1a.jpg" /></td><td><img alt="frame" src="cid:05101505_2b.jpg" /></td><td><img alt="frame" src="cid:05101505_1b.jpg" /></td><!--FRAME--></tr>
+</table><br />
+<!--GPS-->
+<!--ADR-->
+<!--MAP-->
+<hr /></body></html>

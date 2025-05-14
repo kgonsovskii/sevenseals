@@ -1,0 +1,7 @@
+acc: tss705,tss705
+url: http://www.sevenseals.ru/
+key: ABQIAAAA4dv0IJCtLf1xjqX9vaHuQxSAFfo16wC6SVm5sDkO6789jmj7LhQOJNxgcouUzeUbQ3TLWAHBDn6SIQ
+
+acc: tss705,tss705
+url: http://localhost
+key: ABQIAAAA4dv0IJCtLf1xjqX9vaHuQxT2yXp_ZAY8_ufC3CFXhHIE1NvwkxTdJ9XdUvr384dWdCUuFSjOQSzQNg
